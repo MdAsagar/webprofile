@@ -1,0 +1,72 @@
+/*Global Style*/
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+/*End of Global Style*/
+
+/* sections */
+section {padding:2rem;}
+.bg-primary {background-color:#007aeb;color:#fff;}
+.bg-gray {background-color:#cccccc;}
+/* /section */
+
+/* this code for content change without page load */
+.hide {
+  display: none;
+}
+.map-container {
+  text-align: center;
+}
+/* here end */
+
+/* footer */
+/*Global Style*/
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+/* here end */
+
+#btn
+{
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
